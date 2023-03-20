@@ -1,6 +1,6 @@
 # Churn-Analysis-PowerBI
 you can find the actual file on main page of this repository 
-you can find the dashboard sheet in the excel file.
+you can find the dashboard sheet in the PBIX file.
 
 Some Question that we Tried to Answer
 
